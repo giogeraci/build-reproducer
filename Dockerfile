@@ -1,3 +1,3 @@
 FROM quay.io/centos/centos:stream9
 
-COPY build test
+COPY build-errror test
